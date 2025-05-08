@@ -1,8 +1,6 @@
-html, body {
+body {
   margin: 0;
   padding: 0;
-}
-
-canvas {
-  display: block;
+  overflow: hidden;
+  background-color: #25194C;
 }
