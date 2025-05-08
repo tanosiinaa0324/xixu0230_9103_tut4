@@ -3,6 +3,9 @@
 ## Part 1: Imaging Technique Inspiration
 
 I was inspired by the ripple-like motion of particles that respond to mono or multi-channel audio. When the sound is simple, it creates smooth waves; as harmonies build up, it forms a complex, kaleidoscope-like pattern. I want to apply this idea to a point-based artwork by making the dots react rhythmically to audio input, enhancing its emotion and helping viewers better understand the style and theme.
+This concept was originally inspired by a visual art piece shared by the Rednote creator Lawa (ID: 629418274). It is the creator’s original work. You can view the reference here: http://xhslink.com/a/dXQFJm0NCw4bb.
+
+
 
 ### Example Screenshots
 ![Example 1](assets/part1_screenshotA.jpg)  
